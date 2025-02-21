@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.15">
+  <diagram name="Page-1" id="jadPcqDBhslo9DoKEG7p">
+    <mxGraphModel dx="5748" dy="4874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69znfzLrkTSkymSaaurL-1" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3170" y="-2020" width="1690" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-2" value="Airflow Team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-3300" y="-2020" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-3" value="Q1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-3170" y="-2245" width="410" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-4" value="Airflow development" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2990" y="-1990" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-5" value="2025" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-3170" y="-2339" width="1700" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-6" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3170" y="-2149" width="1690" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-7" value="Q2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2740" y="-2245" width="410" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-8" value="DataLake Team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-3300" y="-2149" width="120" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-9" value="DataLake development" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2990" y="-2119.5" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-14" value="Q3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2310" y="-2245" width="410" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-15" value="Q4" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1880" y="-2245" width="410" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-16" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3170" y="-1890" width="1690" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-17" value="DWH Integration Team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-3300" y="-1890" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-18" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3170" y="-1760" width="1690" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-19" value="&lt;div&gt;Services integration Team&lt;/div&gt;&amp;nbsp;(Finance, ML, etc.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-3300" y="-1760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-20" value="Integrate DWH with Airflow, produce data to topic[s] " style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2710" y="-1860" width="730" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-21" value="Subscribe to topic[s]" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2500" y="-1730" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-22" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:12&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;ADR, Agreement&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; of &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;13:10&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;contracts&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="-2119.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-23" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:12&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;ADR, Agreement&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; of &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;13:10&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;contracts&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="-1990" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-24" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:12&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;ADR, Agreement&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; of &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;13:10&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;contracts&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="-1860" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-25" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:12&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;ADR, Agreement&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; of &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;13:10&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;contracts&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="-1730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-26" value="Producing logic" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2990" y="-1860" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-27" value="Services logic implementation" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2990" y="-1730" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-28" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:13&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;Support&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;14:1&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;16:12&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;Maintenance&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2330" y="-2119.5" width="830" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-29" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:13&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;Support&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;14:1&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;16:12&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;Maintenance&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2330" y="-1990" width="834.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-30" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:13&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;Support&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;14:1&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;16:12&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;Maintenance&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1970" y="-1860" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-31" value="&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;0:13&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;Support&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;14:1&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot; data-src-align=&quot;16:12&quot; class=&quot;EzKURWReUAB5oZgtQNkl&quot;&gt;Maintenance&lt;/span&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1870" y="-1730" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-33" target="69znfzLrkTSkymSaaurL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-33" value="Подготовительный этап: research, согласование требований, договоренности о контратках, etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3195" y="-2600" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-35" target="69znfzLrkTSkymSaaurL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-35" target="69znfzLrkTSkymSaaurL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-35" target="69znfzLrkTSkymSaaurL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-35" value="Непосредственный этап имплементации основной логики каждой компоненты ответственной командой" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2820" y="-2600" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.041;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-35" target="69znfzLrkTSkymSaaurL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-40" target="69znfzLrkTSkymSaaurL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-40" value="Этап интеграций решений полученных на предыдущем шаге друг с другом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="-2600" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.052;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-40" target="69znfzLrkTSkymSaaurL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-43" target="69znfzLrkTSkymSaaurL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-43" target="69znfzLrkTSkymSaaurL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-43" target="69znfzLrkTSkymSaaurL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="69znfzLrkTSkymSaaurL-43" target="69znfzLrkTSkymSaaurL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69znfzLrkTSkymSaaurL-43" value="Этап сопровождения и поддержки. Отладки, сбора данных, формирования требований для следующих этапов." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="-2600" width="230" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
